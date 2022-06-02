@@ -7,27 +7,30 @@
 ![img](./.Readme/logo.PNG)
 ---
 # 알고리즘 및 코딩 테스트 문제 풀이 스터디 📝
+[leetcode 바로가기](https://leetcode.com/problemset/all/)
 
-**목표는 [여기에 있는 ](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)75문제 풀이 달성!** 😀
+**목표는 [여기에 있는 ](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)75문제 풀이 달성!** 😀    
 2주 이상 참여 안하신 분들은 중도포기 처리됩니다!
+
+스터디 참여 문의는 디스코드 `NEO#0101`로 DM주세요!
 <br />
 <br />
 
 ## ✅ 참여 방법
-1. 이 저장소를 `fork` 한다.
-2. 생성된 원격 저장소에 `이름` 혹은 `github ID`로 폴더를 생성한다.
-3. 생성된 폴더에 자신의 소스코드를 업로드 한다. (폴더명에 콜론":" 안됩니다!)
-4. 이때 `commit 규칙`을 지키도록한다!
-5. 원본 저장소로 `Pull Request`를 한다. (매주 3문제 이상, 매주 **목요일**에 Merge예정)
-6. 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
+1. 이 저장소를 `fork` 합니다.
+2. 생성된 원격 저장소에 `이름` 혹은 `github ID`로 폴더를 생성합니다.
+3. 생성된 폴더에 자신의 소스코드를 업로드 합니다.
+4. 이때 `commit 규칙`을 지키도록합니다.(📢중요)
+5. 원본 저장소로 `Pull Request`를 합니다. (매주 3문제 이상, 매주 **목요일**에 Merge예정)
+6. 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 합니다.
 7. ***주의!! 기존 폴더를 지우면 안됩니다!!*** 개인 폴더 내부만 수정해주세요 :)
-8. 디스코드에서 매주 목요일 PR알림 + 모르는거 물어보세요 
+8. 디스코드에서 매주 목요일 PR알림 + 모르는거 물어보세요.
 
 <br />
 <br />
 
 ## ✅ 소스코드 파일 이름 규칙
-- 자유롭게 작성 
+- 자유롭게 작성 합니다.
 - 폴더명 또는 소스코드 파일명에 콜론 ":" 안됩니다 :D
 
 <br />
@@ -55,7 +58,7 @@ git commit -m "[1] Two Sum / Easy / 1분" -m "https://leetcode.com/problems/two-
 <br />
 
 ## ✅ (option)코드리뷰 규칙
-- PR에서 코드리뷰를 한다.
+- PR에서 코드리뷰를 합니다.
 - 전체 코드 흐름을 파악한 뒤, 이 분이 어떻게 풀었을까 이해를 한 후 
 - 의견제시
   -   잘했다고 생각하는 부분
